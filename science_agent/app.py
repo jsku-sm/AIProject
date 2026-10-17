@@ -84,7 +84,7 @@ if "agent_session" not in st.session_state:
 # 5. UI
 # =========================================================
 
-st.title("mathmatics Inquiry Coach")
+st.title("수학코치")
 
 st.caption(
     "학생이 스스로 좋은 수학 탐구질문을 "
